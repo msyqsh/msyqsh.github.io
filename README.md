@@ -1,1 +1,0 @@
-# msyqsh.github.io
